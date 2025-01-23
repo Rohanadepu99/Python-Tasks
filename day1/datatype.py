@@ -71,17 +71,17 @@ print(my==you)
 print("---")
 
 # complex number
-img1 = 2+3j;
-img2 = 5+1j;
+img1 = 2+3j
+img2 = 5+1j
 # type
 print(type(img1))
 
 # operations
-print(img1+img2);
-print(img1-img2);
-print(img1**img2);
-print(img1*img2);
-print(img1/img2);
+print(img1+img2)
+print(img1-img2)
+print(img1**img2)
+print(img1*img2)
+print(img1/img2)
 # print(img1//img2); this will not work
 # print(img1%img2); this will not work
 
@@ -168,7 +168,7 @@ print(list1[5][1])
 # string is immutable in python and js not in other lang
 print('for loop')
 for i in list1:
-    print(i);
+    print(i)
 
 
 

@@ -24,7 +24,7 @@ name = "str"
 name = "str"
 name = "str"
 name = "str"
-print(name);
+print(name)
 print(id(str))
 name = "str"
 name = "str"
@@ -42,7 +42,7 @@ print(tup1[1])
 # tup1[1]= 'welcome';
 # tuple is immutable;
 print(tup1[1]) 
-print(tup1);
+print(tup1)
 tup1 += (1)
 print(tup1)
 
