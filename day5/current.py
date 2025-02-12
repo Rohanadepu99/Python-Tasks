@@ -18,6 +18,10 @@ bill = calculate_bill_with_elif(units)
 print(f"Total current bill (with elif): {bill} rupees")
 
 
+
+
+
+
 def calculate_bill_without_elif(units):
     service_charge = 50
     total_bill = 0
